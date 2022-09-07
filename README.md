@@ -1,6 +1,11 @@
 # **BUG BOUNTY**
 Bug Bounty(hata-ödül), bir güvenlik açığını veya hatayı başarıyla keşfedip uygulamanın geliştiricisine bildirdiği için etik hackerlarına verilen parasal bir ödüldür. Hata- ödül programları, şirketlerin zaman içinde sürekli olarak sistemlerinin güvenlik duruşunu iyileştirmek için hacker topluluğundan yararlanmalarına olanak tanır.
 * [---!!BOMBA!!--- Web for Pentester](https://pentesterlab.com/exercises/web_for_pentester/course)
+* [Web uygulama güvenliği kursu](https://kyilmaz80.gitbook.io/lyk2019-wug/)
+* [book.hacktricks](https://book.hacktricks.xyz/welcome/readme)
+* [hacksplaining](https://www.hacksplaining.com)
+* [whoami.securitybreached](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/)
+* [geeksforgeeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
 * [Web Security Academy Learning path](https://portswigger.net/web-security/learning-path)
 * [PwnFunction/Web Security](https://www.youtube.com/playlist?list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ)
 * [Welcome to the OWASP Top 10 - 2021](https://owasp.org/Top10/)
