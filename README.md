@@ -2,6 +2,9 @@
 Bug Bounty(hata-ödül), bir güvenlik açığını veya hatayı başarıyla keşfedip uygulamanın geliştiricisine bildirdiği için etik hackerlarına verilen parasal bir ödüldür. Hata- ödül programları, şirketlerin zaman içinde sürekli olarak sistemlerinin güvenlik duruşunu iyileştirmek için hacker topluluğundan yararlanmalarına olanak tanır.
 * [---!!BOMBA!!--- Web for Pentester](https://pentesterlab.com/exercises/web_for_pentester/course)
 * [Web Security Academy Learning path](https://portswigger.net/web-security/learning-path)
+* [PwnFunction/Web Security](https://www.youtube.com/playlist?list=PLI_rLWXMqpSl_TqX9bbisW-d7tDqcVvOJ)
+* [Welcome to the OWASP Top 10 - 2021](https://owasp.org/Top10/)
+* [The Cyber Mentor](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
 
 ## BURP SUİTE
 NEDİR? Burp Suite; web uygulama güvenliğini test etmek için kullanılan bir platformdur. PortSwigger şirketi tarafından geliştirilmiş ve Java programlama diliyle yazılmıştır. Grafik arayüzü olduğu gibi terminal aracılığı ile de platforma erişim sağlanabilir.
