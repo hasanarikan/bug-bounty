@@ -203,3 +203,19 @@ NEDİR? Türkçe açılımı “Siteler Arası İstek Sahtekârlığı” şekli
 * [(CSRF / XSRF Cross-Site Request Forgery) Nedir Nasıl Kullanılır. ?](https://www.turkhackteam.org/konular/csrf-xsrf-cross-site-request-forgery-nedir-nasil-kullanilir.1267661/)
 * [[Döküman] Cross-Site Request Forgery (CSRF)](https://www.turkhackteam.org/konular/dokuman-cross-site-request-forgery-csrf.909549/)
 * [CSRF Nedir - Nasıl Yapılır ve Korunulur ?](https://www.turkhackteam.org/konular/csrf-nedir-nasil-yapilir-ve-korunulur.442062/)
+
+## brute force
+NEDİR?Kaba kuvvet saldırısı, sonunda doğrusunu bulma umuduyla deneme yanılma yönetimi kullanarak bir parola veya kullanıcı adını ele geçirme, gizli bir web sayfasını bulma ya da bir mesajı şifrelemek için kullanılan anahtarı arama girişimidir. Bu, eski ancak hâlâ etkili ve korsanlar arasında popüler bir saldırı yöntemidir.Parolanın kırılması, uzunluğuna ve karmaşıklığına bağlı olarak birkaç saniye veya birkaç yıl sürebilir. Hatta bazı korsanlar aylar, hatta yıllar boyunca her gün aynı sistemi hedef alır.
+### KAYNAKLAR:
+* [Brute Force Attack Definition](https://www.fortinet.com/resources/cyberglossary/brute-force-attack)
+* [brute-force attack](https://www.techtarget.com/searchsecurity/definition/brute-force-cracking)
+* [Brute Force Attack](https://www.imperva.com/learn/application-security/brute-force-attack/)
+* [What is Brute Force Attack? | Password Cracking Using Brute Force Attacks | Edureka](https://www.youtube.com/watch?v=fHsJAei2ocM)
+* [How Hackers Could Brute-Force SSH Credentials to Gain Access to Servers](https://www.youtube.com/watch?v=FKVsz_2IWJs)
+* [How Hackers Can Brute-Force Website Logins](https://www.youtube.com/watch?v=PlP6i3qkaJk)
+* [Web App Penetration Testing - #3 - Brute Force With Burp Suite](https://www.youtube.com/watch?v=cL9NsXpUqYI)
+* [Brute-force Nedir? Nasıl Yapılır? Uygulamalı Anlatım İnstagram hesabı hackleme !!](https://www.turkhackteam.org/konular/brute-force-nedir-nasil-yapilir-uygulamali-anlatim-instagram-hesabi-hackleme.2010258/)
+* [⭐Brute Force ile site düşürmek ⭐\\Quiklav](https://www.turkhackteam.org/konular/brute-force-ile-site-dusurmek-quiklav.1479732/)
+* [Brute Force Saldırısı Nasıl Yapılır?(Burp Suite)](https://yakupseker.medium.com/brute-force-saldırısı-nasıl-yapılır-burp-suite-881bca2d5975)
+* [Brute Force -Kaba Kuvvet Saldırısı](https://startupvadisi.com/uygulamalibrute-force-kaba-kuvvet-saldirisi/)
+* [Brute Force Attack: Definition and Examples](https://www.kaspersky.com/resource-center/definitions/brute-force-attack)
