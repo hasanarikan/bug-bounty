@@ -115,3 +115,83 @@ NEDİR? Directory Traversal (file path traversal olarak da bilinir), bir saldır
 * [Directory Traversal](https://www.imperva.com/learn/application-security/directory-traversal/)
 * [Directory Traversal Attacks](https://www.acunetix.com/websitesecurity/directory-traversal/)
 * [Directory Traversal: Examples, Testing, and Prevention](https://brightsec.com/blog/directory-traversal/)
+
+## XSS İNJECTİON
+NEDİR?Cross-site scripting attack (XSS) yani siteler arası komut dosyası çalıştırma saldırısı, bir bilgisayar korsanının, iyi huylu ve güvenilir olarak görülen bir web sayfasının içeriğine, genellikle istemci tarafı komut dosyası biçiminde kötü amaçlı kod enjekte etmesiyle oluşur. Kötü amaçlı komut dosyası genellikle, JavaScript ve HTML olan istemci tarafı programlama dillerinde yazılır.Genel olarak, XSS saldırılarına yatkın web uygulamaları, kullanıcıların girdilerini doğrulamaz veya kodlamaz. Bir siber suçlu, bu kusurdan yararlanabilir ve şüphelenmeyen bir son kullanıcıya tehlikeli bir komut dosyası gönderebilir. Ne yazık ki, kullanıcının tarayıcısı, komut dosyasına güvenilir bir kaynaktan geliyormuş gibi davranır ve onu yürütür; bu, potansiyel olarak şüphelenmeyen kullanıcıya zarar verir.
+### KAYNAKLAR:
+* [Sıfırdan Zirveye Cross Site Scripting](https://www.turkhackteam.org/konular/sifirdan-zirveye-cross-site-scripting.2007540/)
+* [Temel Olarak XSS 1](https://www.turkhackteam.org/konular/temel-olarak-xss-1.1963932/)
+* [Temel Olarak XSS 2](https://www.turkhackteam.org/konular/temel-olarak-xss-2.1964145/)
+* [Xss açıgı en kapsamlı anlatım!](https://www.turkhackteam.org/konular/xss-acigi-en-kapsamli-anlatim.1706814/)
+* [XSS Vulnerability](https://www.turkhackteam.org/konular/xss-vulnerability.2013693/)
+* [XSS'in Temeli / XSS Açığı Bulma İşlemi](https://www.turkhackteam.org/konular/xssin-temeli-xss-acigi-bulma-islemi.1907733/)
+* [Güvenlik Açığı Tarama Serisi - Part #3 // XSS Açığı Tarama](https://www.turkhackteam.org/konular/guvenlik-acigi-tarama-serisi-part-3-xss-acigi-tarama.1918924/)
+* [Site Hackleme Rehberi #2](https://www.turkhackteam.org/konular/site-hackleme-rehberi-2.1988103/)
+* [XSS AÇIĞI ](https://www.turkhackteam.org/konular/xss-acigi-1.2012049/)
+* [XSS Açığı Nedir ? Nasıl Yararlanılır?](https://www.turkhackteam.org/konular/xss-acigi-nedir-nasil-yararlanilir.2006704/)
+* [Acunetix Scanner | XSS Attack SALDIRISI!](https://www.turkhackteam.org/konular/acunetix-scanner-xss-attack-saldirisi.1187504/)
+* [Cross-Site Scripting (XSS) Explained](https://www.youtube.com/watch?v=EoaDgUgS6QA)
+* [Cross-Site Scripting (XSS) Explained And Demonstrated By A Pro Hacker!](https://www.youtube.com/watch?v=PPzn4K2ZjfY)
+* [Running a XSS Attack + How to defend](https://www.youtube.com/watch?v=oEFPFc36weY)
+* [Hacking Websites With Cross-Site Scripting (XSS Attack Basics)](https://www.youtube.com/watch?v=9kaihe5m3Lk)
+* [Cross-Site Scripting (XSS) Explained And Demonstrated!](https://www.youtube.com/watch?v=1Hr4_r2xQXY)
+* [Website Hacking Demos using Cross-Site Scripting (XSS) - it's just too easy!](https://www.youtube.com/watch?v=PzRQhpbYbeg)
+* [DO NOT USE alert(1) for XSS](https://www.youtube.com/watch?v=KHwVjzWei1c)
+* [What is Cross Site Scripting?| Cross Site Scripting Attack | Cross Site Scripting Tutorial | Edureka](https://www.youtube.com/watch?v=cWu_FJUrH5Y)
+* [Respect XSS](http://respectxss.blogspot.com)
+* [// | 'XSS Açıgı | Site Hacklemiyen Kalmıyacak! | Video'lu ' Kapsamlı Anlatım] | .' // |](https://www.turkhackteam.org/konular/xss-acigi-site-hacklemiyen-kalmiyacak-videolu-kapsamli-anlatim.1434024/)
+* [XSS Saldırısı Nedir Nasıl Yapılır ?(Cross-Site Scripting)](https://www.turkhackteam.org/konular/xss-saldirisi-nedir-nasil-yapilir-cross-site-scripting.1945448/)
+* [Cross Site Scripting Nedir? (XSS) ( Çalışma mantığı )](https://www.turkhackteam.org/konular/cross-site-scripting-nedir-xss-calisma-mantigi.1956143/)
+* [Cross Site Scripting (XSS) Nedir? Zafiyetleri Nelerdir?](https://www.turkhackteam.org/konular/cross-site-scripting-xss-nedir-zafiyetleri-nelerdir.2008821/)
+* [XSS Açık ve Hacking XSS Döküman Geniş Anlatım](https://www.turkhackteam.org/konular/xss-acik-ve-hacking-xss-dokuman-genis-anlatim.1183507/)
+* [Cross Site Scripting (XSS) Nedir?](https://www.argenova.com.tr/xss-cross-site-scripting-nedir)
+
+## BROKEN ACCESS CONTROL
+NEDİR? Saldırganlar, diğer kullanıcıların hesaplarına erişmek, hassas dosyaları görüntülemek, diğer kullanıcıların verilerini değiştirmek, erişim haklarını değiştirmek vb. gibi yetkisiz işlevlere veya verilere erişmek için bu kusurları kullanabilir.
+### KAYNAKLAR:
+* [Access control vulnerabilities and privilege escalation](https://portswigger.net/web-security/access-control)
+* [2021 OWASP Top Ten: Broken Access Control](https://www.youtube.com/watch?v=K2PiHznrPBs)
+* [2017 OWASP Top 10: Broken Access Control](https://www.youtube.com/watch?v=P38at6Tp8Ms&t=17s)
+* [Bugcrowd University - Broken Access Control Testing](https://www.youtube.com/watch?v=94-tlOCApOc)
+* [OWASP-Broken Acces Control](https://www.turkhackteam.org/konular/owasp-broken-acces-control.1984459/)
+* [Broken Access Control OWASP Top 10 - ALTUN](https://www.turkhackteam.org/konular/broken-access-control-owasp-top-10-altun.1838912/)
+* [CTF ile OwaspTop10 Serisi | #2Broken Access Control](https://www.turkhackteam.org/konular/ctf-ile-owasptop10-serisi-2broken-access-control.2015929/)
+
+## İDOR
+NEDİR? Günümüzde Web uygulamalarında fazlaca görünen IDOR (Insecure Direct Object References) Web uygulamasında Yetkilendirme(authorization)’nin düzgün yapılandırılmamasından kaynaklanmaktadır.
+* [Insecure Direct Object References (IDOR) Zafiyeti](https://www.ozztech.net/siber-guvenlik/insecure-direct-object-references-idor-zafiyeti/)
+* [Nedir?Insecure Direct Object Reference (Idor) Zafiyeti Nedir?](https://www.siberguvenlik.web.tr/index.php/2021/01/14/insecure-direct-object-reference-idor-zafiyeti-nedir/)
+* [ IDOR Zafiyeti Nedir?](https://erknabd.medium.com/tr-idor-zafiyeti-nedir-2e6f208207c7)
+* [IDOR](https://secromix.com/blog/populer-web-sitesi-guvenlik-aciklari-idor/)
+* [IDOR Zafiyeti Nedir ?](https://www.turkhackteam.org/konular/idor-zafiyeti-nedir.2003444/)
+* [İDOR Güvenlik Açığı Kullanımı / Pentester](https://www.turkhackteam.org/konular/idor-guvenlik-acigi-kullanimi-pentester.1445636/)
+* [Popüler web sitesi güvenlik açıkları, IDOR](https://www.turkhackteam.org/konular/populer-web-sitesi-guvenlik-aciklari-idor.2007958/)
+* [Yazılım Güvenliği - IDOR Zafiyeti](https://www.turkhackteam.org/konular/yazilim-guvenligi-idor-zafiyeti.2003524/)
+* [IDOR Zafiyeti Nedir?](https://www.turkhackteam.org/konular/idor-zafiyeti-nedir.1916084/)
+* [Web Security 101 0x02 | IDOR Insecure Direct Object Reference Zafiyetleri Hakkında Her şey](https://www.youtube.com/watch?v=TsJ2XPuGe1k)
+* [Insecure Direct Object Reference (IDOR) Explained](https://www.youtube.com/watch?v=rloqMGcPMkI)
+
+## CSRF
+NEDİR? Türkçe açılımı “Siteler Arası İstek Sahtekârlığı” şeklinde olan CSRF zafiyeti; web uygulamasını kullanmakta olan kullanıcıların istekleri dışında işlemler yürütülmesidir. Uygulamaya giden isteklerin hangi kaynaktan ve nasıl gönderildiği kontrol edilmeyen sistemlerde ortaya çıkan bu zafiyet, aslında uygulamayı kodlayan yazılımcıların gözünden kaçan bir ayrıntıdır diyebiliriz. Genelde CSRF veya XSRF şeklinde kısaltılan bu güvenlik açığı “Session Riding” olarak da bilinmektedir.
+### KAYNAKLAR:
+* [Cross-site request forgery (CSRF)](https://portswigger.net/web-security/csrf)
+* [Cross Site Request Forgery (CSRF)](https://owasp.org/www-community/attacks/csrf)
+* [Reviewing Code for Cross-Site Request Forgery Issues Overview](https://owasp.org/www-project-code-review-guide/reviewing-code-for-csrf-issues)
+* [Cross site request forgery (CSRF) attack](https://www.imperva.com/learn/application-security/csrf-cross-site-request-forgery/)
+* [Cross-Site Request Forgery (CSRF): Impact, Examples, and Prevention](https://brightsec.com/blog/cross-site-request-forgery-csrf/)
+* [Cross-Site Request Forgery (CSRF) Explained](https://www.youtube.com/watch?v=eWEgUcHPle0)
+* [CSRF Giriş ve Aynı Köken Politikası nedir? - web 0x04](https://www.youtube.com/watch?v=KaEj_qZgiKY)
+* [Cross-Site Request Forgery (CSRF) Explained And Demonstrated By A Pro Hacker!](https://www.youtube.com/watch?v=V03_7CphtHE)
+* [Web App Penetration Testing - #13 - CSRF (Cross Site Request Forgery)](https://www.youtube.com/watch?v=TwG0Rd0hr18&t=549s)
+* [Siteler Arası İstek Sahteciliği - Computerphile](https://www.youtube.com/watch?v=vRBihr41JTo)
+* [Cross Site Request Forgery (CSRF or XSRF)](https://www.youtube.com/watch?v=m0EHlfTgGUU)
+* [Web Security 101 0x03 | Session'ı ve CSRF Zafiyetini Anlamak & SameSite Cookie Önlemi](https://www.youtube.com/watch?v=CKHai0OW6BY)
+* [Cross-Site Request Forgery (CSRF) Zafiyeti](https://gaissecurity.com/blog/cross-site-request-forgery-csrf-zafiyeti/)
+* [CSRF Zaafiyetini Hacklemek Ve Anlamak](https://www.turkhackteam.org/konular/csrf-zaafiyetini-hacklemek-ve-anlamak.1964210/)
+* [Cross Site Request Forgery Nedir?](https://www.turkhackteam.org/konular/cross-site-request-forgery-nedir.1982516/)
+* [/ CSRF Acigi ,Mantığı ve Saldırı Şekli /](https://www.turkhackteam.org/konular/csrf-acigi-mantigi-ve-saldiri-sekli.1055128/)
+* [CSRF İnjection Nedir , Nasil Yapilir](https://www.turkhackteam.org/konular/csrf-injection-nedir-nasil-yapilir.935039/)
+* [Csrf açığı nedir nasıl kullanılır yöntemler geniş anlatım tht](https://www.turkhackteam.org/konular/csrf-acigi-nedir-nasil-kullanilir-yontemler-genis-anlatim-tht.983156/)
+* [(CSRF / XSRF Cross-Site Request Forgery) Nedir Nasıl Kullanılır. ?](https://www.turkhackteam.org/konular/csrf-xsrf-cross-site-request-forgery-nedir-nasil-kullanilir.1267661/)
+* [[Döküman] Cross-Site Request Forgery (CSRF)](https://www.turkhackteam.org/konular/dokuman-cross-site-request-forgery-csrf.909549/)
+* [CSRF Nedir - Nasıl Yapılır ve Korunulur ?](https://www.turkhackteam.org/konular/csrf-nedir-nasil-yapilir-ve-korunulur.442062/)
