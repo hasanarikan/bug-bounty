@@ -142,7 +142,7 @@ NEDİR?Cross-site scripting attack (XSS) yani siteler arası komut dosyası çal
 * [DO NOT USE alert(1) for XSS](https://www.youtube.com/watch?v=KHwVjzWei1c)
 * [What is Cross Site Scripting?| Cross Site Scripting Attack | Cross Site Scripting Tutorial | Edureka](https://www.youtube.com/watch?v=cWu_FJUrH5Y)
 * [Respect XSS](http://respectxss.blogspot.com)
-* [// | 'XSS Açıgı | Site Hacklemiyen Kalmıyacak! | Video'lu ' Kapsamlı Anlatım] | .' // |](https://www.turkhackteam.org/konular/xss-acigi-site-hacklemiyen-kalmiyacak-videolu-kapsamli-anlatim.1434024/)
+* [XSS Açıgı | Site Hacklemiyen Kalmıyacak! | Video'lu ' Kapsamlı Anlatım](https://www.turkhackteam.org/konular/xss-acigi-site-hacklemiyen-kalmiyacak-videolu-kapsamli-anlatim.1434024/)
 * [XSS Saldırısı Nedir Nasıl Yapılır ?(Cross-Site Scripting)](https://www.turkhackteam.org/konular/xss-saldirisi-nedir-nasil-yapilir-cross-site-scripting.1945448/)
 * [Cross Site Scripting Nedir? (XSS) ( Çalışma mantığı )](https://www.turkhackteam.org/konular/cross-site-scripting-nedir-xss-calisma-mantigi.1956143/)
 * [Cross Site Scripting (XSS) Nedir? Zafiyetleri Nelerdir?](https://www.turkhackteam.org/konular/cross-site-scripting-xss-nedir-zafiyetleri-nelerdir.2008821/)
