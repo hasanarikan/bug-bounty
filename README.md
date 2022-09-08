@@ -127,6 +127,18 @@ NEDİR? Directory Traversal (file path traversal olarak da bilinir), bir saldır
 ## XSS İNJECTİON
 NEDİR?Cross-site scripting attack (XSS) yani siteler arası komut dosyası çalıştırma saldırısı, bir bilgisayar korsanının, iyi huylu ve güvenilir olarak görülen bir web sayfasının içeriğine, genellikle istemci tarafı komut dosyası biçiminde kötü amaçlı kod enjekte etmesiyle oluşur. Kötü amaçlı komut dosyası genellikle, JavaScript ve HTML olan istemci tarafı programlama dillerinde yazılır.Genel olarak, XSS saldırılarına yatkın web uygulamaları, kullanıcıların girdilerini doğrulamaz veya kodlamaz. Bir siber suçlu, bu kusurdan yararlanabilir ve şüphelenmeyen bir son kullanıcıya tehlikeli bir komut dosyası gönderebilir. Ne yazık ki, kullanıcının tarayıcısı, komut dosyasına güvenilir bir kaynaktan geliyormuş gibi davranır ve onu yürütür; bu, potansiyel olarak şüphelenmeyen kullanıcıya zarar verir.
 ### KAYNAKLAR:
+* [Cross Site Scripting Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Cross_Site_Scripting_Prevention_Cheat_Sheet.html)
+* [XSS Attack: 3 Real Life Attacks and Code Examples](https://brightsec.com/blog/xss-attack/)
+* [Cross Site Scripting (XSS)](https://owasp.org/www-community/attacks/xss/)
+* [Cross-Site Scripting (XSS)](https://xss.js.org/#/)
+* [Cross-site scripting (XSS) cheat sheet](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+* [Cross-site scripting](https://portswigger.net/web-security/cross-site-scripting)
+* [Types of XSS](https://owasp.org/www-community/Types_of_Cross-Site_Scripting)
+* [XSS (Cross Site Scripting)](https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting)
+* [XSS Filter Evasion Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/XSS_Filter_Evasion_Cheat_Sheet.html)
+* [DOM XSS Saldırısı ve Önleme](https://www.turkhackteam.org/konular/dom-xss-saldirisi-ve-onleme.2007251/)
+* [DOM Yapısı Ve Hacklenmesi!](https://www.turkhackteam.org/konular/dom-yapisi-ve-hacklenmesi.2016242/)
+* [XSS "Dom XSS, Reflected XSS, Stored (Persistent) XSS"](https://www.turkhackteam.org/konular/xss-dom-xss-reflected-xss-stored-persistent-xss.1974964/)
 * [Sıfırdan Zirveye Cross Site Scripting](https://www.turkhackteam.org/konular/sifirdan-zirveye-cross-site-scripting.2007540/)
 * [Temel Olarak XSS 1](https://www.turkhackteam.org/konular/temel-olarak-xss-1.1963932/)
 * [Temel Olarak XSS 2](https://www.turkhackteam.org/konular/temel-olarak-xss-2.1964145/)
@@ -147,12 +159,14 @@ NEDİR?Cross-site scripting attack (XSS) yani siteler arası komut dosyası çal
 * [DO NOT USE alert(1) for XSS](https://www.youtube.com/watch?v=KHwVjzWei1c)
 * [What is Cross Site Scripting?| Cross Site Scripting Attack | Cross Site Scripting Tutorial | Edureka](https://www.youtube.com/watch?v=cWu_FJUrH5Y)
 * [Respect XSS](http://respectxss.blogspot.com)
-* [XSS Açıgı | Site Hacklemiyen Kalmıyacak! | Video'lu ' Kapsamlı Anlatım](https://www.turkhackteam.org/konular/xss-acigi-site-hacklemiyen-kalmiyacak-videolu-kapsamli-anlatim.1434024/)
+* ['XSS Açıgı | Site Hacklemiyen Kalmıyacak! | Video'lu ' Kapsamlı](https://www.turkhackteam.org/konular/xss-acigi-site-hacklemiyen-kalmiyacak-videolu-kapsamli-anlatim.1434024/)
 * [XSS Saldırısı Nedir Nasıl Yapılır ?(Cross-Site Scripting)](https://www.turkhackteam.org/konular/xss-saldirisi-nedir-nasil-yapilir-cross-site-scripting.1945448/)
 * [Cross Site Scripting Nedir? (XSS) ( Çalışma mantığı )](https://www.turkhackteam.org/konular/cross-site-scripting-nedir-xss-calisma-mantigi.1956143/)
 * [Cross Site Scripting (XSS) Nedir? Zafiyetleri Nelerdir?](https://www.turkhackteam.org/konular/cross-site-scripting-xss-nedir-zafiyetleri-nelerdir.2008821/)
 * [XSS Açık ve Hacking XSS Döküman Geniş Anlatım](https://www.turkhackteam.org/konular/xss-acik-ve-hacking-xss-dokuman-genis-anlatim.1183507/)
 * [Cross Site Scripting (XSS) Nedir?](https://www.argenova.com.tr/xss-cross-site-scripting-nedir)
+* [Cross Site Scripting (XSS) Attack Tutorial With Examples, Types & Prevention](https://www.softwaretestinghelp.com/cross-site-scripting-xss-attack-test/)
+* [Cross-Site Scripting (XSS) Attacks](https://sucuri.net/guides/what-is-cross-site-scripting/)
 
 ## BROKEN ACCESS CONTROL
 NEDİR? Saldırganlar, diğer kullanıcıların hesaplarına erişmek, hassas dosyaları görüntülemek, diğer kullanıcıların verilerini değiştirmek, erişim haklarını değiştirmek vb. gibi yetkisiz işlevlere veya verilere erişmek için bu kusurları kullanabilir.
