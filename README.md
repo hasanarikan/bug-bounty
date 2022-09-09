@@ -12,6 +12,13 @@ Bug Bounty(hata-ödül), bir güvenlik açığını veya hatayı başarıyla ke�
 * [The Cyber Mentor](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
 * [LiveOverflow//Bug Bounty](https://www.youtube.com/playlist?list=PLhixgUqwRTjxKYsPTegCyL5adZaq5eILt)
+* [Web Hacking'e Giriş: Genel Terimler ve Kavramlar](https://www.turkhackteam.org/konular/web-hackinge-giris-genel-terimler-ve-kavramlar.2011505/)
+* [Bug Bounty Nedir ? | Detaylı](https://www.turkhackteam.org/konular/bug-bounty-nedir-detayli.2014447/)
+* [🌟Web Sitenin Temeli \\ 🛡PourLa ⚔️](https://www.turkhackteam.org/konular/web-sitenin-temeli-pourla.1846413/)
+* [Tek Konuda Sızma Testini Öğrenin.](https://www.turkhackteam.org/konular/tek-konuda-sizma-testini-ogrenin.1954115/)
+* [Web Uygulama Saldırıları / Web Application Attacks](https://www.turkhackteam.org/konular/web-uygulama-saldirilari-web-application-attacks.1990827/)
+* [Temel Web site Hack Yöntemleri Ayrıntılı](https://www.turkhackteam.org/konular/temel-web-site-hack-yontemleri-ayrintili.997634/)
+* [Aktif ve Pasif Bilgi Toplama | Bazı Araçlar ve Kullanımları](https://www.turkhackteam.org/konular/aktif-ve-pasif-bilgi-toplama-bazi-araclar-ve-kullanimlari.2007664/)
 
 ## BURP SUİTE
 NEDİR? Burp Suite; web uygulama güvenliğini test etmek için kullanılan bir platformdur. PortSwigger şirketi tarafından geliştirilmiş ve Java programlama diliyle yazılmıştır. Grafik arayüzü olduğu gibi terminal aracılığı ile de platforma erişim sağlanabilir.
