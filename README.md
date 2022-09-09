@@ -345,7 +345,7 @@ NEDİR? sunucu taraflı istek sahteciliği” olan SSRF (Server Side Request For
 * [SSRF – Sunucu Tarafı İstek Sahteciliği](https://www.ozztech.net/siber-guvenlik/ssrf-sunucu-tarafi-istek-sahteciligi/)
 * [Server-side request forgery (SSRF)](https://portswigger.net/web-security/ssrf)
 * [Server Side Request Forgery](https://owasp.org/www-community/attacks/Server_Side_Request_Forgery)
-* [Server-Side Request Forgery Prevention Cheat Sheet (https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html)
+* [Server-Side Request Forgery Prevention Cheat Sheet ](https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html)
 * [Server-Side Request Forgery (SSRF)](https://www.imperva.com/learn/application-security/server-side-request-forgery-ssrf/)
 * [Basic SSRF against the local server | Web Security Academy](https://serdardasdemir.com/basic-ssrf-against-the-local-server-web-security-academy/)
 * [SSRF with blacklist-based input filter | Web Security Academy](https://serdardasdemir.com/ssrf-with-blacklist-based-input-filter-web-security-academy/)
