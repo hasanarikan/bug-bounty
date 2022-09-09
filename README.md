@@ -292,3 +292,95 @@ NEDİR?SQL enjeksiyonu, veri tabanına dayalı uygulamalara saldırmak için kul
 * [SQL injection cheat sheet](https://portswigger.net/web-security/sql-injection/cheat-sheet)
 * [Injection non-sql Cheat Sheet.pdf](http://www.wongkarnpat.com/upfilepat/Injection%20non-sql%20Cheat%20Sheet.pdf)
 * [Blind SQL injection with conditional responses | Web Security Academy](https://serdardasdemir.com/blind-sql-injection-with-conditional-responses-web-security-academy/)
+
+## XXE
+NEDİR? Güvenlik açıkları genellikle uygulamaların sunduğu özelliklerin kötüye kullanılmasından kaynaklanmaktadır. Bu sebeple, XML External Entity Injection (XXE) zafiyetinin ne olduğuna geçmeden önce XML'in sunduğu özellikleri incelememiz, zafiyetin neden kaynaklandığı anlayabilmemiz için fayda sağlayacaktır.
+### KAYNAKLAR:
+* [ XML External Entity (XXE)](https://canyoupwn.me/tr-xml-external-entity-xxe/)
+* [XML Saldırıları ve Teknik Atakları AXPA~THT](https://www.turkhackteam.org/konular/xml-saldirilari-ve-teknik-ataklari-axpa-tht.1679854/)
+* [XML Ve HTML Nedir?](https://www.turkhackteam.org/konular/xml-ve-html-nedir.2004384/)
+* [Web For Pentester lab - XXE Injection](https://www.youtube.com/watch?v=7h1nVNaznEs)
+* [Web Security 0x07 | XML Parserlar ve XML external entity (XXE) Injection](https://www.youtube.com/watch?v=-BPnSQou8yw)
+* [XXE Injection Attack Tutorial (2019)](https://www.youtube.com/watch?v=DREgLWZqMWg)
+* [XML External Entities (XXE) Explained](https://www.youtube.com/watch?v=gjm6VHZa_8s)
+* [XML External Entity Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/XML_External_Entity_Prevention_Cheat_Sheet.html)
+* [Web For Pentester Lab - XXE Injection](https://www.turkhackteam.org/konular/web-for-pentester-lab-xxe-injection.2001318/)
+* [Hedef Sitede XSS Açığı Nasıl Bulunur?](https://www.turkhackteam.org/konular/hedef-sitede-xss-acigi-nasil-bulunur.1991898/)
+* [XXE Zafiyeti Nedir ?](https://www.turkhackteam.org/konular/xxe-zafiyeti-nedir.2011878/)
+* [XEE Zafiyeti Nedir, Nasıl Tespit Edilir ve Nasıl Önlenir?](https://www.turkhackteam.org/konular/xee-zafiyeti-nedir-nasil-tespit-edilir-ve-nasil-onlenir.2020485/)
+* [XML external entity (XXE) injection](https://portswigger.net/web-security/xxe)
+* [XML External Entity (XXE) Processing](https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing)
+* [XML External Entity (XXE) Vulnerabilities and How to Fix Them](https://brightsec.com/blog/xxe-vulnerability/)
+* [Exploiting XML External Entity (XXE) Injection Vulnerability](https://infosecwriteups.com/exploiting-xml-external-entity-xxe-injection-vulnerability-f8c4094fef83)
+* [Testing for XML Injection (OTG-INPVAL-008)](https://wiki.owasp.org/index.php/Testing_for_XML_Injection_(OTG-INPVAL-008))
+* [XML External Entity (XXE) AXPA~THT](https://www.turkhackteam.org/konular/xml-external-entity-xxe-axpa-tht.1684538/)
+* [XML injection](https://portswigger.net/kb/issues/00100700_xml-injection)
+* [XML Enternal Entitiy (XXE) Zafyeti Nedir](https://www.turkhackteam.org/konular/xml-enternal-entitiy-xxe-zafyeti-nedir.1955545/)
+
+## Captcha Bypass
+NEDİR?Captcha Bypass yönetimi genellikle bir kere giriş yapılmış servislerde kullanılabiliyor. Örneğin Facebook'a bir kere doğru Captcha girip gerçek bir kullanıcı olduğunuzu onayladıktan sonra geri kalan Captcha'ları bu tür yazılımlar sizin için halledebiliyor.
+### KAYNAKLAR:
+* [Captcha Bypass](https://book.hacktricks.xyz/pentesting-web/captcha-bypass)
+* [Dev Konu | Google Recaptchayı Kırma Yöntemi | Detaylı Anlatım | kenzaii](https://www.turkhackteam.org/konular/dev-konu-google-recaptcha-yi-kirma-yontemi-detayli-anlatim-kenzaii.1424258/)
+* [CAPTCHA Nedir ve Ne İçin Kullanılır ?](https://www.turkhackteam.org/konular/captcha-nedir-ve-ne-icin-kullanilir.2015385/)
+
+## server side request forgery attack(SSRF)
+NEDİR? sunucu taraflı istek sahteciliği” olan SSRF (Server Side Request Forgery), saldırganların zafiyetli bir web uygulaması adına istek gönderebilmesidir. Saldırgan; hedef sunucuya giden istekleri, zafiyetli web uygulamasındaki parametreleri değiştirip isteklerin varış noktalarını manipüle edebilir.
+### KAYNAKLAR:
+* [SSRF Açığı Hakkında Geniş Bilgi | Dil Takımı](https://www.turkhackteam.org/konular/ssrf-acigi-hakkinda-genis-bilgi-dil-takimi.1302658/)
+* [Server-side request forgery (SSRF) attacks and how to prevent them](https://www.comparitech.com/blog/information-security/server-side-request-forgery-attacks/)
+* [A'dan Z'ye Server Side Request Forgery [SSRF]](https://www.turkhackteam.org/konular/adan-zye-server-side-request-forgery-ssrf.1996477/)
+* [2021 OWASP Top Ten: Server Side Request Forgery](https://www.youtube.com/watch?v=87GgU-SLOc4)
+* [Web Security 0x16 | Server-Side Request Forgery Nedir ?](https://www.youtube.com/watch?v=2ONduwyqYUA)
+* [Server-Side Request Forgery (SSRF) Explained And Demonstrated](https://www.youtube.com/watch?v=Zyt7lUO3mY8)
+* [Server Side Request Forgery (SSRF) Zafiyeti Nedir? SSRF Zafiyetinden Nasıl Korunulur?](https://www.infinitumit.com.tr/server-side-request-forgery/)
+* [SSRF (server side request forgery)](https://www.turkhackteam.org/konular/ssrf-server-side-request-forgery.1939201/)
+* [CTF ile OwaspTop10 Serisi | #3Server-side Request Forgery (SSRF)](https://www.turkhackteam.org/konular/ctf-ile-owasptop10-serisi-3server-side-request-forgery-ssrf.2018329/)
+* [Server Side Request Forgery (SSRF) Testing](https://infosecwriteups.com/server-side-request-forgery-ssrf-testing-b9dfe57cca35)
+* [SSRF - Server Side Request Forgery (Types and ways to exploit it) Part-1](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-1-29d034c27978)
+* [SSRF — Server Side Request Forgery (Types and ways to exploit it) Part-2](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-2-a085ec4332c0)
+* [SSRF — Server Side Request Forgery (Types and ways to exploit it) Part-3](https://medium.com/@madrobot/ssrf-server-side-request-forgery-types-and-ways-to-exploit-it-part-3-b0f5997e3739)
+* [SSRF (Server Side Request Forgery)](https://gaissecurity.com/blog/ssrf-server-side-request-forgery/)
+* [Sunucu taraflı istek sahteciliği (SSRF)/Sunucu tarafı istek sahteciliği (SSRF)](https://medium.com/@melihmacit/server-side-request-forgery-ssrf-sunucu-tarafı-istek-sahteciliği-ssrf-1899769b38cc)
+* [SSRF – Sunucu Tarafı İstek Sahteciliği](https://www.ozztech.net/siber-guvenlik/ssrf-sunucu-tarafi-istek-sahteciligi/)
+* [Server-side request forgery (SSRF)](https://portswigger.net/web-security/ssrf)
+* [Server Side Request Forgery](https://owasp.org/www-community/attacks/Server_Side_Request_Forgery)
+* [Server-Side Request Forgery Prevention Cheat Sheet (https://cheatsheetseries.owasp.org/cheatsheets/Server_Side_Request_Forgery_Prevention_Cheat_Sheet.html)
+* [Server-Side Request Forgery (SSRF)](https://www.imperva.com/learn/application-security/server-side-request-forgery-ssrf/)
+* [Basic SSRF against the local server | Web Security Academy](https://serdardasdemir.com/basic-ssrf-against-the-local-server-web-security-academy/)
+* [SSRF with blacklist-based input filter | Web Security Academy](https://serdardasdemir.com/ssrf-with-blacklist-based-input-filter-web-security-academy/)
+* [Basic SSRF against another back-end system | Web Security Academy](https://serdardasdemir.com/basic-ssrf-against-another-back-end-system-web-security-academy/)
+* [SSRF with whitelist-based input filter | Web Security Academy](https://serdardasdemir.com/ssrf-with-whitelist-based-input-filter-web-security-academy/)
+
+## API GÜVENLİĞİ
+NEDİR?API (Application Programming Interface), iki uygulama arasında iletişim kurulmasına izin veren bir yazılım aracı olan Uygulama Programlama Arayüzünün kısaltmasıdır. Facebook, Instagram, Twitter gibi uygulamaları her kullandığınızda, mesaj gönderdiğinizde veya telefonunuzdaki hava durumunu kontrol ettiğinizde, bir API kullanıyorsunuz demektir.
+KAYNAKLAR:
+* [API Nedir? | akovskiniz](https://www.turkhackteam.org/konular/api-nedir-akovskiniz.1881515/)
+* [API Security - SQL Injection](https://www.youtube.com/watch?v=3uujNJyUPJQ&list=PLRzqj5IrfWN7kHGhNzFd268gu1yFU81pj)
+* [ Atil Samancioglu//API Güvenliği ve Sızma Testleri](https://www.youtube.com/playlist?list=PLT1Gj1RmR7vqHK60qS5bpNUeivz4yhmbS)
+* [Wep Api Nedir Nedir Ne işe yarar ?](https://www.turkhackteam.org/konular/wep-api-nedir-nedir-ne-ise-yarar.2009173/)
+* [Web API Security](https://www.imperva.com/learn/application-security/web-api-security/)
+* [API Security Tutorial](https://www.wallarm.com/what/api-security-tutorial)
+* [Everything You Need to Know about API Security in 2022](https://www.pingidentity.com/en/resources/blog/post/complete-guide-to-api-security.html)
+* [API security](https://www.redhat.com/en/topics/security/api-security)
+* [API Security: The Complete Guide to Threats, Methods & Tools](https://brightsec.com/blog/api-security/)
+* [What is API Security?](https://owasp.org/www-project-api-security/)
+
+## OSINT
+NEDİR?Açık Kaynak Istihbarat, herhangi bir gizlilik gerektirmeyen, kamuoyuna açık, belli bir amaç için toplanan bilgilerin, istihbarat çarkindan geçirilmesiyle elde edilen istihbarattir. Bugün birçok modern istihbarat servisi, istihbari bilgileri AKI ile elde etmektedir.
+### KAYNAKLAR:
+* [OSINT Framework](https://osintframework.com)
+* [List of Top 10 OSINT Tools](https://seon.io/resources/the-best-tools-for-osint/)
+* [OSINT Tools. Social Media Resources](https://www.osinttechniques.com/osint-tools.html)
+* [OSINT Nedir? – Popüler OSINT Araçları](https://www.infinitumit.com.tr/osint-nedir-en-yaygin-kullanilan-osint-araclari/)
+* [Açık Kaynak İstihbaratı (OSINT) Kaynak // RootAdam](https://www.turkhackteam.org/konular/acik-kaynak-istihbarati-osint-kaynak-rootadam.1888337/)
+* [Açık Kaynak İstihbaratı Nedir(OSINT) // RootAdam](https://www.turkhackteam.org/konular/acik-kaynak-istihbarati-nedir-osint-rootadam.1863015/)
+
+
+
+
+
+
+
+
+
