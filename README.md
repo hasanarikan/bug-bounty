@@ -11,6 +11,7 @@ Bug Bounty(hata-ödül), bir güvenlik açığını veya hatayı başarıyla ke�
 * [Welcome to the OWASP Top 10 - 2021](https://owasp.org/Top10/)
 * [The Cyber Mentor](https://www.youtube.com/playlist?list=PLLKT__MCUeixCoi2jtP2Jj8nZzM4MOzBL)
 * [OWASP Cheat Sheet Series](https://cheatsheetseries.owasp.org/index.html)
+* [LiveOverflow//Bug Bounty](https://www.youtube.com/playlist?list=PLhixgUqwRTjxKYsPTegCyL5adZaq5eILt)
 
 ## BURP SUİTE
 NEDİR? Burp Suite; web uygulama güvenliğini test etmek için kullanılan bir platformdur. PortSwigger şirketi tarafından geliştirilmiş ve Java programlama diliyle yazılmıştır. Grafik arayüzü olduğu gibi terminal aracılığı ile de platforma erişim sağlanabilir.
