@@ -5,6 +5,7 @@ Bug Bounty(hata-ödül), bir güvenlik açığını veya hatayı başarıyla ke�
 * [OWASP™ Foundation the free and open software security community](https://wiki.owasp.org/index.php/Main_Page)
 * [book.hacktricks](https://book.hacktricks.xyz/welcome/readme)
 * [hacksplaining](https://www.hacksplaining.com)
+* [Fundamentals](https://www.rapid7.com/fundamentals/)
 * [whoami.securitybreached](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/)
 * [geeksforgeeks](https://www.geeksforgeeks.org/computer-network-tutorials/)
 * [Web Security Academy Learning path](https://portswigger.net/web-security/learning-path)
