@@ -2,6 +2,7 @@
 Bug Bounty(hata-ödül), bir güvenlik açığını veya hatayı başarıyla keşfedip uygulamanın geliştiricisine bildirdiği için etik hackerlarına verilen parasal bir ödüldür. Hata- ödül programları, şirketlerin zaman içinde sürekli olarak sistemlerinin güvenlik duruşunu iyileştirmek için hacker topluluğundan yararlanmalarına olanak tanır.
 * [---!!BOMBA!!--- Web for Pentester](https://pentesterlab.com/exercises/web_for_pentester/course)
 * [Web uygulama güvenliği kursu](https://kyilmaz80.gitbook.io/lyk2019-wug/)
+* [OWASP™ Foundation the free and open software security community](https://wiki.owasp.org/index.php/Main_Page)
 * [book.hacktricks](https://book.hacktricks.xyz/welcome/readme)
 * [hacksplaining](https://www.hacksplaining.com)
 * [whoami.securitybreached](https://whoami.securitybreached.org/2019/06/03/guide-getting-started-in-bug-bounty-hunting/)
@@ -19,6 +20,7 @@ Bug Bounty(hata-ödül), bir güvenlik açığını veya hatayı başarıyla ke�
 * [Web Uygulama Saldırıları / Web Application Attacks](https://www.turkhackteam.org/konular/web-uygulama-saldirilari-web-application-attacks.1990827/)
 * [Temel Web site Hack Yöntemleri Ayrıntılı](https://www.turkhackteam.org/konular/temel-web-site-hack-yontemleri-ayrintili.997634/)
 * [Aktif ve Pasif Bilgi Toplama | Bazı Araçlar ve Kullanımları](https://www.turkhackteam.org/konular/aktif-ve-pasif-bilgi-toplama-bazi-araclar-ve-kullanimlari.2007664/)
+* [Tools i Use For Bug Bounty Hunting [Updated]](https://greedybucks.medium.com/tools-i-use-for-bug-bounty-hunting-2d75b84b6ac1)
 
 ## BURP SUİTE
 NEDİR? Burp Suite; web uygulama güvenliğini test etmek için kullanılan bir platformdur. PortSwigger şirketi tarafından geliştirilmiş ve Java programlama diliyle yazılmıştır. Grafik arayüzü olduğu gibi terminal aracılığı ile de platforma erişim sağlanabilir.
