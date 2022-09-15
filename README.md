@@ -22,6 +22,7 @@ Bug Bounty(hata-ödül), bir güvenlik açığını veya hatayı başarıyla ke�
 * [Temel Web site Hack Yöntemleri Ayrıntılı](https://www.turkhackteam.org/konular/temel-web-site-hack-yontemleri-ayrintili.997634/)
 * [Aktif ve Pasif Bilgi Toplama | Bazı Araçlar ve Kullanımları](https://www.turkhackteam.org/konular/aktif-ve-pasif-bilgi-toplama-bazi-araclar-ve-kullanimlari.2007664/)
 * [Tools i Use For Bug Bounty Hunting [Updated]](https://greedybucks.medium.com/tools-i-use-for-bug-bounty-hunting-2d75b84b6ac1)
+* [LiveOverflow//LiveOverflow Web Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP)
 
 ## BURP SUİTE
 NEDİR? Burp Suite; web uygulama güvenliğini test etmek için kullanılan bir platformdur. PortSwigger şirketi tarafından geliştirilmiş ve Java programlama diliyle yazılmıştır. Grafik arayüzü olduğu gibi terminal aracılığı ile de platforma erişim sağlanabilir.
