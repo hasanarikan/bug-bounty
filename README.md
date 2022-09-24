@@ -23,6 +23,8 @@ Bug Bounty(hata-ödül), bir güvenlik açığını veya hatayı başarıyla ke�
 * [Aktif ve Pasif Bilgi Toplama | Bazı Araçlar ve Kullanımları](https://www.turkhackteam.org/konular/aktif-ve-pasif-bilgi-toplama-bazi-araclar-ve-kullanimlari.2007664/)
 * [Tools i Use For Bug Bounty Hunting [Updated]](https://greedybucks.medium.com/tools-i-use-for-bug-bounty-hunting-2d75b84b6ac1)
 * [LiveOverflow//LiveOverflow Web Hacking](https://www.youtube.com/playlist?list=PLhixgUqwRTjx2BmNF5-GddyqZcizwLLGP)
+* [freeCodeCamp.org/Ethical Hacking](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnklGh3FNRLECx_2D_vK3mu)
+* [HackerSploit/Web App Penetration Testing Tutorials](https://www.youtube.com/playlist?list=PLBf0hzazHTGO3EpGAs718LvLsiMIv9dSC)
 
 ## BURP SUİTE
 NEDİR? Burp Suite; web uygulama güvenliğini test etmek için kullanılan bir platformdur. PortSwigger şirketi tarafından geliştirilmiş ve Java programlama diliyle yazılmıştır. Grafik arayüzü olduğu gibi terminal aracılığı ile de platforma erişim sağlanabilir.
@@ -34,6 +36,7 @@ NEDİR? Burp Suite; web uygulama güvenliğini test etmek için kullanılan bir 
 * [Burp Suite Kullanımı ve Genel İncelemesi \\ Quiklav - SolidStar](https://www.turkhackteam.org/konular/burp-suite-kullanimi-ve-genel-incelemesi-quiklav-solidstar.1674379/)
 * [Burpsuite Detaylı Anlatım//skrosman - Bölüm 1](https://www.turkhackteam.org/konular/burpsuite-detayli-anlatim-skrosman-bolum-1.2019519/)
 * [Burp Suite](https://www.youtube.com/watch?v=YCCrVtvAu2I&list=PLBf0hzazHTGP2L7AoWTIhggUsDdNZhfBl)
+* [burp suite](https://www.youtube.com/watch?v=IWWYNDiwYOA)
 
 ## HTML İNJECTİON
 NEDİR? Uygulamaların kodları üzerinde bulunan bazı eksiklikler sonucu ortaya çıkan bir güvenlik açığı türüdür. HTML Injection ile web sitelerinin veya uygulamaların misyonlarının dışına çıkmasına sebep olunabilir.
