@@ -47,12 +47,14 @@ NEDİR? Uygulamaların kodları üzerinde bulunan bazı eksiklikler sonucu ortay
 * [Web Apps / HTML & İframe İnjection #1](https://www.turkhackteam.org/konular/web-apps-html-iframe-injection-1.1963628/)
 * [HTML İNJECTİON NEDİR](https://www.turkhackteam.org/konular/html-injection-nedir.1990588/#post-9422757)
 * [HTML Injection](https://www.imperva.com/learn/application-security/html-injection/)
-* [HTML dersleri detaylı](https://www.turkhackteam.org/konular/html-dersleri-detayli.707943/)
 * [HTML Etiketleri | akovskiniz | Ar-Ge](https://www.turkhackteam.org/konular/html-etiketleri-akovskiniz-ar-ge.1743780/)
 * [BÖLÜM:2](https://www.udemy.com/course/komple-web-developer-kursu/learn/lecture/28188326#overview)
 * [BÖLÜM:3](https://www.udemy.com/course/komple-web-developer-kursu/learn/lecture/7677548#overview)
 * [HTML Injections Nedir ?](https://www.turkhackteam.org/konular/html-injections-nedir.1987132/)
 * [IFRAME Injection Nedir? / Kullanımı](https://www.turkhackteam.org/konular/iframe-injection-nedir-kullanimi.1962517/)
+* [HTMLOgrenelimSerisi](https://github.com/hasanarikan/THTHTMLOgrenelimSerisi)
+* [HTML Öğrenelim//üsttekinin serisi](https://www.turkhackteam.org/konular/html-ogrenelim-13.2021868/)
+* [Kaliteli HTML Hacked İndex'i Hazırlama Yolları](https://www.turkhackteam.org/konular/kaliteli-html-hacked-indexi-hazirlama-yollari-programsiz-vr7.1014783/)
 
 ## PHP İNJECTİON
 NEDİR? PHP’de kullanıcıdan alınan verinin “unserialize()” fonksiyonundan geçirilmesi sonucu class’ın __wakeup() ve __destruct() metotlarını tetiklemesiyle oluşan bir zafiyettir.
