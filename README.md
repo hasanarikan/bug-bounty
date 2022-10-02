@@ -96,7 +96,8 @@ NEDİR? PHP’de kullanıcıdan alınan verinin “unserialize()” fonksiyonund
 NEDİR? OS Command Injection Nedir? Tam açılımı Operating System Command Injection, bir web uygulaması zafiyetidir. Bu web uygulamasını çalıştıran sunucuda, işletim sistemi (OS) komutları yürütülmesine olanak tanır. Yani bu işlem Windows'ta CMD, Linux'ta terminal üzerinde komut çalıştırmak gibidir.
 ### KAYNAKLAR:
 * [OS Command Injection Defense Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/OS_Command_Injection_Defense_Cheat_Sheet.html)
-* [YOUTUBE PLAYLİST // Jeff M//OS Command injection](https://www.youtube.com/playlist?list=PLhYRQNF8J-CqrUNR8RIURsTIJrouiuYnN)* [payloadbox / command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list)
+* [YOUTUBE PLAYLİST // Jeff M//OS Command injection](https://www.youtube.com/playlist?list=PLhYRQNF8J-CqrUNR8RIURsTIJrouiuYnN)
+* [payloadbox / command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list)
 * [ OS command injection](https://portswigger.net/web-security/os-command-injection)
 * [Command Injection](https://owasp.org/www-community/attacks/Command_Injection)
 * [Os Command Injection](https://www.turkhackteam.org/konular/os-command-injection.1982750/)
